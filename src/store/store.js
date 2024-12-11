@@ -7,6 +7,7 @@ export const useStore = defineStore("store", () => {
   function addCount() {
     count.value++;
   }
+//   sdfkjls
   return {
     count,
     doubleCount,
